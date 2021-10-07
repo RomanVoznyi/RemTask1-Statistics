@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.partOne {
+  padding: 20px;
+  background-color: lightgrey;
+  border-bottom: 1px dashed tomato;
+}
