@@ -7,3 +7,9 @@
   background-color: lightgrey;
   border-bottom: 1px dashed tomato;
 }
+
+.partTwo {
+  padding: 20px;
+  background-color: lightcyan;
+  border-bottom: 1px dashed tomato;
+}
