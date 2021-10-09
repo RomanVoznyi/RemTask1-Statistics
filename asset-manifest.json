@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/RemTask1/static/css/main.178c4ce1.chunk.css",
-    "main.js": "/RemTask1/static/js/main.5a2eb30f.chunk.js",
-    "main.js.map": "/RemTask1/static/js/main.5a2eb30f.chunk.js.map",
+    "main.css": "/RemTask1/static/css/main.9bd50971.chunk.css",
+    "main.js": "/RemTask1/static/js/main.7af51ae4.chunk.js",
+    "main.js.map": "/RemTask1/static/js/main.7af51ae4.chunk.js.map",
     "runtime-main.js": "/RemTask1/static/js/runtime-main.c7e86ac0.js",
     "runtime-main.js.map": "/RemTask1/static/js/runtime-main.c7e86ac0.js.map",
-    "static/js/2.65ea3913.chunk.js": "/RemTask1/static/js/2.65ea3913.chunk.js",
-    "static/js/2.65ea3913.chunk.js.map": "/RemTask1/static/js/2.65ea3913.chunk.js.map",
+    "static/js/2.2855f1de.chunk.js": "/RemTask1/static/js/2.2855f1de.chunk.js",
+    "static/js/2.2855f1de.chunk.js.map": "/RemTask1/static/js/2.2855f1de.chunk.js.map",
     "index.html": "/RemTask1/index.html",
-    "static/css/main.178c4ce1.chunk.css.map": "/RemTask1/static/css/main.178c4ce1.chunk.css.map",
-    "static/js/2.65ea3913.chunk.js.LICENSE.txt": "/RemTask1/static/js/2.65ea3913.chunk.js.LICENSE.txt"
+    "static/css/main.9bd50971.chunk.css.map": "/RemTask1/static/css/main.9bd50971.chunk.css.map",
+    "static/js/2.2855f1de.chunk.js.LICENSE.txt": "/RemTask1/static/js/2.2855f1de.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c7e86ac0.js",
-    "static/js/2.65ea3913.chunk.js",
-    "static/css/main.178c4ce1.chunk.css",
-    "static/js/main.5a2eb30f.chunk.js"
+    "static/js/2.2855f1de.chunk.js",
+    "static/css/main.9bd50971.chunk.css",
+    "static/js/main.7af51ae4.chunk.js"
   ]
 }
